@@ -1,5 +1,5 @@
 {
-  "name": "@ak/demo",
+  "name": "ak-demo",
   "version": "1.0.2",
   "description": "a set of utility functions created by ak",
   "main": "dist/index.js",
